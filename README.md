@@ -67,8 +67,8 @@ The Startup Blueprint Generator Agent automates this process using Natural Langu
 
 ## 🏅 IBM Certifications
 
-- ✔️ Getting Started with AI – [Credly Link / Screenshot]
-- ✔️ RAG Lab Certification – [Attach here]
+- ✔️ Getting Started with AI – https://www.credly.com/badges/63cc263a-779e-490a-b78a-0e7534ae5e7f/public_url
+- ✔️ RAG Lab Certification - https://skills.yourlearning.ibm.com/certificate/share/fd45604d0cewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI0OTEyOTQ1UkVHIiwKICAib2JqZWN0SWQiIDogIkFMTS1DT1VSU0VfMzgyNDk5OCIKfQ09062d3a3d-10
 
 ---
 
@@ -77,22 +77,10 @@ The Startup Blueprint Generator Agent automates this process using Natural Langu
 **Nitin Verma**  
 Department of Computer Applications  
 Invertis University, Bareilly  
-📧 [Your Email] | 🌐 [Your Portfolio or LinkedIn]  
-
----
-
-## 🔗 GitHub Repository
-
-[🔗 View Source Code](#)
+📧 nv118976@gmail.com | 🌐 https://www.linkedin.com/in/nitinverma9027/  
 
 ---
 
 ## 🙏 Acknowledgements
 
 Thanks to **IBM SkillsBuild**, **Watsonx**, and our academic mentors for guidance and resources.
-
----
-
-## 📌 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
